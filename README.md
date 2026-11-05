@@ -11,6 +11,31 @@ and for your own life while you're still living it.*
 
 Licensed under the [Apache License 2.0](LICENSE).
 
+## Project Origin and Attribution
+
+CONTINUUM originated from DIGITAL-LEGACY, an earlier project developed by Anna
+Tchijova. The original idea for CONTINUUM came from Olga Vasilieva.
+
+A subsequent version of the software was developed by Anna in a repository
+hosted under the GitHub account of her mother, Olga Vasilieva. CONTINUUM was
+later forked from that repository and continues the original development.
+
+The distinction between repository ownership and software authorship is
+intentional: the original GitHub account belonged to Olga Vasilieva, while the
+software implementation and code were carried out by Anna Tchijova.
+
+This history is preserved to provide transparent attribution, maintain
+continuity between project versions, and acknowledge the role of Olga Vasilieva
+in the project's history.
+
+**Project lineage:** DIGITAL-LEGACY → repository hosted by Olga Vasilieva → CONTINUUM.
+
+**Idea:** Olga Vasilieva.
+
+**Implementation and code:** Anna Tchijova.
+
+See [AUTHORS](AUTHORS) for author details and professional profile.
+
 ## What Continuum is
 
 Continuum turns a scattered life archive — documents, context, memories, and
